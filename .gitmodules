@@ -1,0 +1,21 @@
+[submodule "website"]
+	path = website
+	url = git@github.com:openartcoded/website.git
+[submodule "triplestore"]
+	path = triplestore
+	url = git@github.com:openartcoded/triplestore.git
+[submodule "gateway"]
+	path = gateway
+	url = git@github.com:openartcoded/gateway.git
+[submodule "google-sync-backup"]
+	path = google-sync-backup
+	url = git@github.com:openartcoded/google-sync-backup.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:openartcoded/backend.git
+[submodule "backoffice"]
+	path = backoffice
+	url = git@github.com:openartcoded/backoffice.git
+[submodule "app-docker"]
+	path = app-docker
+	url = git@github.com:openartcoded/app-docker.git
