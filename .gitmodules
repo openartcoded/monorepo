@@ -26,3 +26,7 @@
 	path = app-docker
 	branch = main
 	url = git@github.com:openartcoded/app-docker.git
+[submodule "keycloak"]
+	path = keycloak
+	branch = main
+	url = git@github.com:openartcoded/keycloak.git
