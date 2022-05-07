@@ -1,7 +1,3 @@
-[submodule "website"]
-	path = website
-	branch = main
-	url = git@github.com:openartcoded/website.git
 [submodule "triplestore"]
 	path = triplestore
 	branch = main
