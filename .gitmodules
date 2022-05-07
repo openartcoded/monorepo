@@ -26,3 +26,6 @@
 	path = keycloak
 	branch = main
 	url = git@github.com:openartcoded/keycloak.git
+[submodule "public-website"]
+	path = public-website
+	url = git@github.com:openartcoded/public-website.git
